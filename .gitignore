@@ -1,0 +1,28 @@
+# Node.js
+/node_modules
+
+# React
+/build
+/.env
+
+frontend/node_modules/
+frontend/dist/
+frontend/.parcel-cache/
+
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependencies
+/package-lock.json
+/yarn.lock
+
+# Npm Package Directory
+node_modules/
+
+# Coverage directory from testing
+/coverage
